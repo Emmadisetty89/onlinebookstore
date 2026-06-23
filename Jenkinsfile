@@ -10,3 +10,4 @@ pipeline {
 				Build the test and deploy the target server 
         }
 }
+build the code in the deployement process 
