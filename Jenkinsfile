@@ -7,5 +7,6 @@ pipeline {
               	    echo "repo cloned successfully"  
               	    }  
          	    } 
+				Build the test and deploy the target server 
         }
 }
